@@ -30,7 +30,6 @@ Copy rxtxParallel.dll ---> <JAVA_HOME>\jre\bin
 Run:
 > java -jar ModbusPal.jar
 
-A GUI will pop-up on the screen.
 ![alt text](https://github.com/niladri30/Modbus-Simulator-Setup/blob/master/modbuspal1.PNG)
 
 ## Starting the Modbus Simulator
